@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296334700908",
+    "project_id": "driverappnew-bea7c",
+    "storage_bucket": "driverappnew-bea7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296334700908:android:e711c82bbb4bb979a78349",
+        "android_client_info": {
+          "package_name": "Majdi.com.driver_app_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVBCss9akomlEgLa7vl0dyJMESvjBmqrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
