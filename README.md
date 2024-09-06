@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # driver_app_delivery
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# DriverAppDelivery
+Delivery App
+>>>>>>> 28ccc31d1214dff7b2d39fc9df1fcfe47b8ea63e
