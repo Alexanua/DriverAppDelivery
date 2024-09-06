@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # driver_app_delivery
 
 A new Flutter project.
@@ -19,3 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 # DriverAppDelivery
 Delivery App
 >>>>>>> 28ccc31d1214dff7b2d39fc9df1fcfe47b8ea63e
+=======
+# DriverAppDelivery
+Delivery App for Driver
+>>>>>>> 4b56e4e249779bbc8ab6d16daade1f9e2b4d846d
